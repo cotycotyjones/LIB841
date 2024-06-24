@@ -1,0 +1,65 @@
+body{
+	background-color: #c5ffd0;
+	color: black;
+	font-family: Georgia,serif;
+font-size: 16px;
+font-weight: normal;
+
+line-height: 1.6em;
+}
+nav {
+	background-color: #333;
+}
+nav table {
+	width: 100%;
+	border-collapse: collapse;
+}
+nav td {
+	width: 25%;/*Ensure each cell takes an equal share of the table width*/
+	text-align: center;
+	padding: 14px 0;/*Adust padding to make clickable area larger*/
+}
+nav a {
+	display:  block;
+	color:  white;
+	text-decoration: none;
+	padding: 14px 16px;
+}
+nav a: hover {
+	background-color:  #111;
+}
+
+.box-1 {
+border:  2px black solid;}
+div {
+padding:  40px;}
+.box-2 {
+border:  2px black solid;}
+.box-3 {
+border:  2px black solid;}
+H1{
+	Text-align:  center;
+}
+H2{color: black;
+Text-align:  center;}
+.myCenter {text-align:  center; 
+margin:  auto;
+width: 300px;}
+H3{
+Text-align: center;
+color: black;
+font-family: Georgia,serif;}
+H4{
+Text-align: center;
+color: black;
+font-family: Georgia,serif;}
+img.greyborder {
+border: 3px solid #333;}
+.logoBorder {
+	border: 3px solid black;
+}
+th{
+	font-family: Georgia,serif;
+font-size: 13px;
+font-weight: bold;
+}
